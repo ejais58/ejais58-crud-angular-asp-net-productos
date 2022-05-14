@@ -1,0 +1,193 @@
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\back_emprendimiento.dll.config
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\back_emprendimiento.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\back_emprendimiento.pdb
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\csc.exe
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\csc.exe.config
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\csc.rsp
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\csi.exe
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\csi.exe.config
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\csi.rsp
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\System.AppContext.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Collections.Immutable.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Console.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Globalization.Calendars.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\System.IO.Compression.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\System.IO.FileSystem.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Net.Http.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Net.Sockets.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Reflection.Metadata.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\System.ValueTuple.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Xml.XPath.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\vbc.exe
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\vbc.exe.config
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\vbc.rsp
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\VBCSCompiler.exe
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\roslyn\VBCSCompiler.exe.config
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\Antlr3.Runtime.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\Microsoft.Web.Infrastructure.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\Newtonsoft.Json.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\System.Net.Http.Formatting.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\System.Web.Helpers.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\System.Web.Http.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\System.Web.Http.WebHost.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\System.Web.Mvc.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\System.Web.Optimization.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\System.Web.Razor.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\System.Web.WebPages.Deployment.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\System.Web.WebPages.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\System.Web.WebPages.Razor.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\WebGrease.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\Newtonsoft.Json.xml
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\System.Net.Http.Formatting.xml
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\System.Web.Helpers.xml
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\System.Web.Http.xml
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\System.Web.Http.WebHost.xml
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\System.Web.Mvc.xml
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\System.Web.Optimization.xml
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\System.Web.Razor.xml
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\System.Web.WebPages.xml
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\System.Web.WebPages.Deployment.xml
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\System.Web.WebPages.Razor.xml
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\Antlr3.Runtime.pdb
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\es\System.Web.Helpers.resources.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\es\System.Web.Http.resources.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\es\System.Web.Mvc.resources.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\es\System.Web.Optimization.resources.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\es\System.Web.Razor.resources.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\es\System.Web.WebPages.resources.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\obj\Debug\back_emprendimiento.csproj.AssemblyReference.cache
+D:\Backend\back_emprendimiento\back_emprendimiento\obj\Debug\back_emprendimiento.csproj.CoreCompileInputs.cache
+D:\Backend\back_emprendimiento\back_emprendimiento\obj\Debug\back_emprendimiento.csproj.CopyComplete
+D:\Backend\back_emprendimiento\back_emprendimiento\obj\Debug\back_emprendimiento.dll
+D:\Backend\back_emprendimiento\back_emprendimiento\obj\Debug\back_emprendimiento.pdb
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\back_emprendimiento.dll.config
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\back_emprendimiento.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\back_emprendimiento.pdb
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\csc.exe
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\csc.exe.config
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\csc.rsp
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\csi.exe
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\csi.exe.config
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\csi.rsp
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\System.AppContext.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Console.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\System.IO.Compression.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Net.Http.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\System.ValueTuple.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\vbc.exe
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\vbc.exe.config
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\vbc.rsp
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\VBCSCompiler.exe
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\Antlr3.Runtime.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\Newtonsoft.Json.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\System.Net.Http.Formatting.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\System.Web.Helpers.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\System.Web.Http.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\System.Web.Http.WebHost.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\System.Web.Mvc.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\System.Web.Optimization.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\System.Web.Razor.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\System.Web.WebPages.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\System.Web.WebPages.Razor.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\WebGrease.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\Newtonsoft.Json.xml
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\System.Net.Http.Formatting.xml
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\System.Web.Helpers.xml
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\System.Web.Http.xml
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\System.Web.Http.WebHost.xml
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\System.Web.Mvc.xml
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\System.Web.Optimization.xml
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\System.Web.Razor.xml
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\System.Web.WebPages.xml
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\System.Web.WebPages.Razor.xml
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\Antlr3.Runtime.pdb
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\es\System.Web.Http.resources.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\es\System.Web.Razor.resources.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\obj\Debug\back_emprendimiento.csproj.AssemblyReference.cache
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\obj\Debug\back_emprendimiento.csproj.CoreCompileInputs.cache
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\obj\Debug\back_emprendimiento.csproj.CopyComplete
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\obj\Debug\back_emprendimiento.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\obj\Debug\back_emprendimiento.pdb
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\System.Web.Cors.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\System.Web.Http.Cors.dll
+C:\Users\Elias Jais\Desktop\emprendimiento\back_emprendimiento\back_emprendimiento\bin\System.Web.Http.Cors.xml

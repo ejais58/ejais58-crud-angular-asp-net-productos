@@ -1,0 +1,63 @@
+<div class="container">
+  <div class="row text-center mt-4">
+    <div class="col">
+      <img>
+    </div>
+  </div>
+  <div class="row text-center mt-5">
+    <div class="col">
+      <h2>CRUD Productos</h2>
+    </div>
+  </div>
+  <div class="row mt-5">
+    <div class="col-md-2">
+      <label for="txtNombre" class="from-label">Id</label>
+      <input type="text" name="id" id="txtNombre" class="form-control"[(ngModel)]="producto.idProducto" disabled="true">
+    </div>
+    <div class="col-md-2">
+      <label for="txtNombre" class="from-label">Nombre</label>
+      <input type="text" name="id" id="txtNombre" class="form-control"[(ngModel)]="producto.nombre">
+    </div>
+    <div class="col-md-4">
+      <label for="txtEdad" class="from-label">Descripcion</label>
+      <input type="text" name="id" id="txtEdad" class="form-control"[(ngModel)]="producto.descripcion">
+    </div>
+    <div class="col-md-2">
+      <label for="txtDesc" class="from-label">Precio</label>
+      <input type="text" name="id" id="txtDesc" class="form-control"[(ngModel)]="producto.precio">
+    </div>
+  </div>
+  <div class="row mt-5">
+    <div class="col">
+      <button class="btn btn-success" type="button" (click)="onAddProductos(producto)">Agregar</button>
+      <button class="btn btn-warning m-2" type="button" (click)="onUpdateProductos(producto)" >Modificar</button>
+      <button class="btn btn-danger" type="button" (click)="onDeleteProductos(producto.idProducto)">Eliminar</button>
+      <button class="btn btn-primary m-2" type="button" (click)="clear()">Limpiar</button>
+    </div>
+    
+  </div>
+  <div class="row mt-4">
+    <div class="col">
+      <table class="table table-striped" style="width: 100%;">
+        <thead>
+          <tr>
+            <th>Seleccionar</th>
+            <th>Id</th>
+            <th>Nombre</th>
+            <th>Descripcion</th>
+            <th>Precio</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let item of datatable">
+            <td><input type="button" value="Seleccionar" (click)="onSetData(item)"></td>
+            <td>{{item.idProducto}}</td>
+            <td>{{item.nombre}}</td>
+            <td>{{item.descripcion}}</td>
+            <td>{{item.precio}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
